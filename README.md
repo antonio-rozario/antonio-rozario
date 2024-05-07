@@ -4,8 +4,17 @@ Hi 👋 My name is Antonio Rozario
 Senior Engineering Manager
 --------------------------
 
-• Enterprise software/systems engineering leader leveraging 15+ years of expertise in technology/product strategy, solutions architecture, and IT support to drive the development and delivery of transformational SaaS, PaaS, and IaaS solutions. • Extensive experience in executing multiple projects across Tech, Product, Operations, Support, and Services organizations to deliver high-performance, high-availability solutions that drive operational excellence and multimillion-dollar savings. • Excels in deploying Agile tools/best practices to streamline solutions/systems architecture, infrastructure optimization, and test automation initiatives while developing high-performing engineering teams to manage multi-project portfolios. • Oversee a $3.4M budget for the engineering teams at Thomson Reuters while serving as a key member of the leadership team that manages an overall budget of $22M. • Played an integral role in developing a next-generation cloud deployment platform for 12 products and 18 services of Thomson Reuters while reducing deployment time by 400% (24 hours to 6 hours) and cost per customer by 300% (from $120K to $40K). • Delivered $3.6M in annual cost savings at Thomson Reuters by securing 45 customers (with savings of $80K per customer), resulting in an ‘exceeded’ rating in the performance review. • Designed a multi-tenant SaaS platform (3E Template) from the ground up to become a true multi-tenant application hosted in the Azure cloud while at Thomson Reuters. • Oversaw the planning, development, and delivery of a trading system at AQR Capital to support several trading algorithms (VWAP, TWAP, VP, Flexible VP).
+* Enterprise software/systems engineering leader leveraging 15+ years of expertise in technology/product strategy, solutions architecture, and IT support to drive the development and delivery of transformational SaaS, PaaS, and IaaS solutions. 
+* Extensive experience in executing multiple projects across Tech, Product, Operations, Support, and Services organizations to deliver high-performance, high-availability solutions that drive operational excellence and multimillion-dollar savings. 
+* Excels in deploying Agile tools/best practices to streamline solutions/systems architecture, infrastructure optimization, and test automation initiatives while developing high-performing engineering teams to manage multi-project portfolios.
+* Oversee a $3.4M budget for the engineering teams at Thomson Reuters while serving as a key member of the leadership team that manages an overall budget of $22M.
+* Played an integral role in developing a next-generation cloud deployment platform for 12 products and 18 services of Thomson Reuters while reducing deployment time by 400% (24 hours to 6 hours) and cost per customer by 300% (from $120K to $40K).
+* Delivered $3.6M in annual cost savings at Thomson Reuters by securing 45 customers (with savings of $80K per customer), resulting in an ‘exceeded’ rating in the performance review.
+* Designed a multi-tenant SaaS platform (3E Template) from the ground up to become a true multi-tenant application hosted in the Azure cloud while at Thomson Reuters.
+* Oversaw the planning, development, and delivery of a trading system at AQR Capital to support several trading algorithms (VWAP, TWAP, VP, Flexible VP).
 
+About myself
+--------------------------
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [antonio.rozario@gmail.com](mailto:antonio.rozario@gmail.com)
 * 🚀  I'm currently working on [.NET Core 8 and Angular 17 app](http://github.com/antonio-rozario/Codepulse.UI/tree/master)
